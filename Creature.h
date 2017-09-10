@@ -9,7 +9,7 @@ enum COLOR {Red, Blue, Green, Orange, Yellow, Black, Teal, White, Gray, Perrywin
 class Creature
 {
 
-	//I chose to use ints for the data fields because they are simplier than floats and easier to 
+	//I choose to use ints for the data fields because they are simplier than floats and easier to 
 	//keep track of.
 private:
 	int appendages;
